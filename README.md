@@ -1,7 +1,6 @@
 # Noah Ehrman's personal LaTeX resume
 
-----------------------------------------
-# Original Readme
+Using git to store my resume over time!
 
 # A LaTeX resume template
 
