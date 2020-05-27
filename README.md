@@ -1,3 +1,8 @@
+# Noah Ehrman's personal LaTeX resume
+
+----------------------------------------
+# Original Readme
+
 # A LaTeX resume template
 
 `resume.cls` is a document class that adds name and address information to the
