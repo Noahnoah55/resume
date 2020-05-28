@@ -1,3 +1,7 @@
+# Noah Ehrman's personal LaTeX resume
+
+Using git to store my resume over time!
+
 # A LaTeX resume template
 
 `resume.cls` is a document class that adds name and address information to the
